@@ -9,7 +9,7 @@ Atividade onde fora criada uma calculadora de IMC (Indice de massa corporal), on
 * Você está com Excesso de peso, para IMC entre 25 e 29.9
 * Você está com Obesidade Grau 1, para IMC entre 30 e 34.9
 * Você está com Obesidade Grau 2, para IMC entre 35 e 39.9
-* Você está com Obesidade Grau 3, para IMC superior a 40
+* Você está com Obesidade Grau 3 (Obesidade Mórbida), para IMC superior a 40
 
 ## :pencil: Licença
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
