@@ -41,7 +41,7 @@
                 } else if ($imc >= 35 && $imc < 39.9) {
                     echo "<p>Você está com Obesidade grau 2.</p>";
                 } else {
-                    echo "<p>Você está com Obesidade grau 3.</p>";
+                    echo "<p>Você está com Obesidade grau 3 (obesidade Mórbida).</p>";
                 }
             }
         ?>
